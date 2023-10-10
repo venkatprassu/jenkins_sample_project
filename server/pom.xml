@@ -44,5 +44,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <servers>
+    <server>
+        <id>my-maven-repo</id> <!-- ID of your repository -->
+        <username>your-username</username>
+        <password>your-password</password>
+    </server>
+</servers>
+
 
 </project>
